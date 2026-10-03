@@ -62,6 +62,8 @@ Open a ticket or message me in the server with your idea and budget.
 <tr>
 <td align="center" width="50%">
 
+<img src="https://cdn.discordapp.com/icons/1464667156955402499/0331855e844441156865ee8c60d4f747.png?size=256" width="120" alt="Petcore+ logo"/>
+
 ### 🐾 Petcore+
 
 A Minecraft pet project I built.
@@ -70,6 +72,8 @@ A Minecraft pet project I built.
 
 </td>
 <td align="center" width="50%">
+
+<img src="https://cdn.discordapp.com/icons/1533211848654979132/9f4cc774f751b70dc40af1cb2dc45e56.png?size=256" width="120" alt="Grow a Pet logo"/>
 
 ### 🌱 Grow a Pet
 
@@ -149,14 +153,6 @@ python bot.py
 ```
 
 </details>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-ten.vercel.app/?username=Youngblock2k&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
-
-</div>
 
 ---
 
