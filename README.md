@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4655&center=true&vCenter=true&width=700&lines=Full-stack+developer+%7C+IGN%3A+Youngblock2k;Minecraft+servers+%E2%80%A2+Discord+bots+%E2%80%A2+Websites;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+C%23;And+much+more...)](https://github.com/Youngblock2k)
 
+<a href="https://discord.gg/dsXFazHAJ"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20Available%20for%20hire-Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Hire me"/></a>
+
 <img src="https://komarev.com/ghpvc/?username=Youngblock2k&label=Profile%20views&color=FF4655&style=for-the-badge" alt="views"/>
 <a href="https://github.com/Youngblock2k?tab=followers"><img src="https://img.shields.io/github/followers/Youngblock2k?style=for-the-badge&logo=github&color=FF4655&labelColor=0F1923" alt="followers"/></a>
 <a href="https://github.com/Youngblock2k?tab=repositories"><img src="https://img.shields.io/github/stars/Youngblock2k?style=for-the-badge&logo=github&color=FF4655&labelColor=0F1923" alt="stars"/></a>
@@ -29,7 +31,55 @@
 <a href="https://x.com/YBlock2k"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://www.twitch.tv/youngblock2k"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
 <a href="https://discord.com/users/1492228176557117643"><img src="https://img.shields.io/badge/Discord-youngblock2k-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-<a href="mailto:unnutzmail206@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:Youngblock3k@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+## 💼 Hire Me
+
+<div align="center">
+
+**Need a Minecraft server, Discord bot, website or custom tool? Join my Discord server to hire me.**
+
+<a href="https://discord.gg/dsXFazHAJ"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20HIRE%20ME%20ON%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Hire me on Discord"/></a>
+
+| Service | Details |
+| --- | --- |
+| ⛏️ Minecraft servers | Setup, plugins and custom features |
+| 🤖 Discord bots | Custom bots built to your spec |
+| 🌐 Websites | Next.js sites and web apps |
+| 🧩 Custom projects | Tell me what you need |
+
+Open a ticket or message me in the server with your idea and budget.
+
+</div>
+
+## ⛏️ Minecraft Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🐾 Petcore+
+
+A Minecraft pet project I built.
+
+<a href="https://discord.gg/e3rewMTT7"><img src="https://img.shields.io/badge/Join%20Petcore%2B-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Petcore+"/></a>
+
+</td>
+<td align="center" width="50%">
+
+### 🌱 Grow a Pet
+
+A Minecraft pet-growing project I built.
+
+<a href="https://discord.gg/fbmm2DYpU"><img src="https://img.shields.io/badge/Join%20Grow%20a%20Pet-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Grow a Pet"/></a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -69,12 +119,14 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Youngblock2k&show_icons=true&theme=radical&hide_border=true&bg_color=0F1923&title_color=FF4655&icon_color=FF4655&include_all_commits=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngblock2k&layout=compact&theme=radical&hide_border=true&bg_color=0F1923&title_color=FF4655" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Youngblock2k&show_icons=true&theme=radical&hide_border=true&bg_color=0F1923&title_color=FF4655&icon_color=FF4655&count_private=true" alt="stats"/>
 
 <img src="https://streak-stats.demolab.com?user=Youngblock2k&theme=radical&hide_border=true&background=0F1923&ring=FF4655&fire=FF4655&currStreakLabel=FF4655" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youngblock2k&bg_color=0F1923&color=FF4655&line=FF4655&point=FFFFFF&area=true&hide_border=true" alt="activity graph" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youngblock2k&theme=radical" alt="profile details" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youngblock2k&theme=radical&utcOffset=5.5" alt="productive time" height="180"/>
+
+<img src="https://ghchart.rshah.org/FF4655/Youngblock2k" alt="contribution chart" width="100%"/>
 
 </div>
 
@@ -102,7 +154,7 @@ python bot.py
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Youngblock2k&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
+<img src="https://github-profile-trophy-ten.vercel.app/?username=Youngblock2k&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
 
 </div>
 
