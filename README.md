@@ -66,7 +66,17 @@ Open a ticket or message me in the server with your idea and budget.
 
 ### 🐾 Petcore+
 
-A Minecraft pet project I built.
+*Collect. Convert. Conquer.*
+
+🥚 Hatch eggs & build your Pet Index<br>
+🔄 Convert duplicates into rainbows<br>
+⛏️ Mine with stackable EXP & coin multipliers<br>
+🧱 Unlock new zones
+
+⚡ Java 1.20.1+ · 🛖 `Petcore.minehut.gg`<br>
+or `/join petcore` on Minehut
+
+<a href="https://petcore.tebex.io/"><img src="https://img.shields.io/badge/Store-FF4655?style=for-the-badge&logo=shopify&logoColor=white" alt="Store"/></a>
 
 <a href="https://discord.gg/e3rewMTT7"><img src="https://img.shields.io/badge/Join%20Petcore%2B-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Petcore+"/></a>
 
@@ -77,7 +87,17 @@ A Minecraft pet project I built.
 
 ### 🌱 Grow a Pet
 
-A Minecraft pet-growing project I built.
+*Collect. Convert. Conquer.*
+
+🥚 Hatch eggs & build your Pet Index<br>
+⚔️ Kill mobs with stackable EXP & coin multipliers<br>
+💰 Earn coins, gems, levels & credits<br>
+🧱 Unlock new zones
+
+⚡ Java 1.20.1+ · 🛖 `growapet.minehut.gg`<br>
+or `/join growapet` on Minehut
+
+<a href="https://growapet.tebex.io/"><img src="https://img.shields.io/badge/Store-FF4655?style=for-the-badge&logo=shopify&logoColor=white" alt="Store"/></a>
 
 <a href="https://discord.gg/fbmm2DYpU"><img src="https://img.shields.io/badge/Join%20Grow%20a%20Pet-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Grow a Pet"/></a>
 
